@@ -83,4 +83,20 @@ header {
 
 .case_message {
     padding-bottom: 150px;
+    margin-bottom: 20px;
 }
+
+/* FOOTER */
+FOOTER {
+    background-color: #3a546d;
+}
+
+.circle_border {
+    border: 2px solid white;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+.icon_contact {
+    height: 30px;
+    width: 30px;
+} 
