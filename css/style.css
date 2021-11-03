@@ -37,6 +37,15 @@ a {
     padding: 30px;
 }
 
+.linethrough {
+    border-color: inherit;
+    border: 2px solid;
+    width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px;
+}
+
 .box_icon {
     margin: 20px;
 }
@@ -170,6 +179,7 @@ FOOTER {
 .icon_contact {
     height: 30px;
     width: 30px;
+    color: white;
 } 
 
 .box_title_section > p {
