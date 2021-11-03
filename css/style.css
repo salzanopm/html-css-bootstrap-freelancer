@@ -83,7 +83,14 @@ header {
     text-align: center;
 }
 
-.case_img_jumbotron
+.case_img_jumbotron {
+    width: 100%;
+    text-align: center;
+}
+
+.case_img_jumbotron >img {
+    width: 50%;
+}
 
 .case_text_jumbotron {
     width: 100%;
@@ -100,7 +107,6 @@ header {
 
 .box_img_portfolio {
     width: calc(100% - 20px);
-    height: 300px;
     margin: 10px;
 }
 
